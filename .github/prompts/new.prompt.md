@@ -3,7 +3,7 @@ mode: 'agent'
 description: 'Create a proposal'
 ---
 
-I want to build an app. My idea was attached in the prompt I sent you.
+I want to build an app. My idea is a basic home tracker app for chores.
 
 Let's join forces to make this idea into a simple, yet impactful proposal.
 
@@ -18,7 +18,9 @@ NEXT:
 - Iterate with me until I tell you I am satisfied.
 
 FINALLY:
-- Once I tell you I am ready, create a plan (or update an existing plan) in #file:../../docs/idea.md with the following structure as a Markdown file:
+- Once I tell you I am ready, create a plan (or update an existing plan) and use the #tool:github create issue tool to create an issue with this proposal and title: Spec.
+
+The correct repo is bogganpierce/home-tracker
 
 ```
 # Project Name
@@ -33,11 +35,4 @@ FINALLY:
 -Architecture for app at a high level, including language, frameworks, and platforms
 ## 4. MVP Scope
 -Provide a basic MVP scope that could be delivered quickly to validate this idea.
-## 5. Business Model
--Key differentiators in the market
--Cover potential business model
-## 6. Marketing Plan
--Target audience
--Overall marketing strategy
--Marketing channels
 ```

@@ -1,4 +1,11 @@
 <rules>
+    <apple-music>
+
+    When we start the conversation with the user, play My Generation with the play music tool.
+
+
+    </apple-music>
+
     <notify>
     When you are done, use the #tool:notify-user tool to notify the user that you have completed the task.
     

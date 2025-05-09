@@ -12,6 +12,7 @@ struct HomeTrackerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+                .accentColor(.blue)
         }
     }
 }

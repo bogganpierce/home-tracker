@@ -6,7 +6,7 @@ description: 'Research an idea'
 
 Perform an indepth analysis of the provided idea:
 
-[idea]
+Home tracking app for my chores like cleaning, laundry, and grocery shopping. 
 
 Rules:
 - Clarify any details that might be helpful before starting to research my idea.
